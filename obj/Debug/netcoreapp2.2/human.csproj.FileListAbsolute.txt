@@ -1,0 +1,11 @@
+/Users/stevenchung/Documents/coding_dojo/c#_stack/oop/human/bin/Debug/netcoreapp2.2/human.deps.json
+/Users/stevenchung/Documents/coding_dojo/c#_stack/oop/human/bin/Debug/netcoreapp2.2/human.runtimeconfig.json
+/Users/stevenchung/Documents/coding_dojo/c#_stack/oop/human/bin/Debug/netcoreapp2.2/human.runtimeconfig.dev.json
+/Users/stevenchung/Documents/coding_dojo/c#_stack/oop/human/bin/Debug/netcoreapp2.2/human.dll
+/Users/stevenchung/Documents/coding_dojo/c#_stack/oop/human/bin/Debug/netcoreapp2.2/human.pdb
+/Users/stevenchung/Documents/coding_dojo/c#_stack/oop/human/obj/Debug/netcoreapp2.2/human.csprojAssemblyReference.cache
+/Users/stevenchung/Documents/coding_dojo/c#_stack/oop/human/obj/Debug/netcoreapp2.2/human.csproj.CoreCompileInputs.cache
+/Users/stevenchung/Documents/coding_dojo/c#_stack/oop/human/obj/Debug/netcoreapp2.2/human.AssemblyInfoInputs.cache
+/Users/stevenchung/Documents/coding_dojo/c#_stack/oop/human/obj/Debug/netcoreapp2.2/human.AssemblyInfo.cs
+/Users/stevenchung/Documents/coding_dojo/c#_stack/oop/human/obj/Debug/netcoreapp2.2/human.dll
+/Users/stevenchung/Documents/coding_dojo/c#_stack/oop/human/obj/Debug/netcoreapp2.2/human.pdb
